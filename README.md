@@ -65,8 +65,5 @@ For any questions, suggestions, or issues, feel free to reach out:
 
 GitHub Issues: https://github.com/tnsecurity/Powershell/issues
 Email: sunil@tnsecurity.com
-Customization Notes:
-Ensure that you replace your-email@example.com with your actual contact email.
-Update the script list if you have additional scripts or change existing ones.
-The LICENSE section assumes you are using the MIT License. If you're using another license, you can update that section accordingly.
+
 Let me know if you'd like any further changes!
